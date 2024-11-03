@@ -1,6 +1,6 @@
 package bomb;
 
-import common.IntList;
+//import common.IntList;
 
 public class BombMain {
     public static void answers(String[] args) {
